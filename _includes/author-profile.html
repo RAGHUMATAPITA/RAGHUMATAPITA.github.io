@@ -65,6 +65,9 @@
       {% if author.scopus %}
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus ai-fw icon-pad-right"></i>Scopus</a></li>
       {% endif %}
+      {% if author.inspirehep %}
+        <li><a href="{{ author.inspirehep }}"><i class="ai ai-inspire ai-fw icon-pad-right" aria-hidden="true"></i>InspireHEP</a></li>
+      {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
