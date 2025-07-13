@@ -40,7 +40,6 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
   inspirehep       : "https://inspirehep.net/authors/1704473"
 
   # Repositories and software development
