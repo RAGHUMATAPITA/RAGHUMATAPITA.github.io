@@ -11,7 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Physics, Indian Institute of Technology (IIT) Madras, India  
+  * **Specialization:** Experimental high energy heavy ion physics  
+  * **Experiment:** Compact Muon Solenoid (CMS), CERN  
+  * **Duration:** 4 years and 11 months (July 7, 2018 – June 13, 2023)  
+  * **Date of defense:** June 13, 2023  
+  * **Thesis at CERN Document Server (CDS):** [https://repository.cern/records/42aqd-nww26](https://repository.cern/records/42aqd-nww26)  
+  * **Supervisor:** Prof. Prabhat Ranjan Pujahari ([p.pujahari@iitm.ac.in](mailto:p.pujahari@iitm.ac.in))  
+
+
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
