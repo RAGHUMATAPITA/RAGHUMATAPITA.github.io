@@ -43,32 +43,36 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-{% if site.talk_category %}
-  {% for category in site.talk_category %}
-    {% assign title_shown = false %}
-    {% for post in site.talks reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <ul>{{ category[1].title }}</ul><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single-talk.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.talks reversed %}
-    {% include archive-single-talk.html %}
+International talks
+------
+  <ul>{% for post in site.publications reversed %}
+   {% if post.category == 'international' %}
+     {% include archive-single-talk-cv.html  %}
+   {% endif %}
   {% endfor %}</ul>
-{% endif %}
-  
+
+Nnational talks
+------
+  <ul>{% for post in site.publications reversed %}
+   {% if post.category == 'national' %}
+     {% include archive-single-talk-cv.html  %}
+   {% endif %}
+  {% endfor %}</ul>
+
+Poster presentations
+------
+  <ul>{% for post in site.publications reversed %}
+   {% if post.category == 'poster' %}
+     {% include archive-single-talk-cv.html  %}
+   {% endif %}
+  {% endfor %}</ul>
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
