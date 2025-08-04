@@ -50,6 +50,8 @@ Publications
 Talks
 ======
 
+All the talks I have presented are based on my own works, which are mentioned in selected publications. Talks where I was personally invited are marked with an **invited** label.
+
 International talks
 ------
   <ul>{% for post in site.talks reversed %}
