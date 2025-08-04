@@ -49,9 +49,10 @@ Publications
   
 Talks
 ======
+
 International talks
 ------
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.talks reversed %}
    {% if post.category == 'international' %}
      {% include archive-single-talk-cv.html  %}
    {% endif %}
@@ -59,7 +60,7 @@ International talks
 
 Nnational talks
 ------
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.talks reversed %}
    {% if post.category == 'national' %}
      {% include archive-single-talk-cv.html  %}
    {% endif %}
@@ -67,7 +68,7 @@ Nnational talks
 
 Poster presentations
 ------
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.talks reversed %}
    {% if post.category == 'poster' %}
      {% include archive-single-talk-cv.html  %}
    {% endif %}
