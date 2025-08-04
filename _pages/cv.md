@@ -35,17 +35,17 @@ Education
   * **First Class with Distinction (91.8% honors, 78.16% aggregate)**
 
 * **Intermediate in Science (I.Sc.), Sahid Memorial College, Manida, Mayurbhanj, Odisha, India**
-  * **Council Of Higher Secondary Education, Odisha**
+  * **Council of Higher Secondary Education, Odisha**
   * **Class:** 11th - 12th
   * **Courses:** Physics, Chemistry, Math, Biology, English, Odia
   * **Minor:** Mathematics and Chemistry
   * **Duration:** 2 years (2011 – 2013)
-  * **First Class (80.33%)**
+  * **First Class with 80.33%**
 
 * **Jaleswar High School, Jaleswar, Baleswar, Odisha, India**
-  * **Board Of Secondary Education, Odisha**
+  * **Board of Secondary Education, Odisha**
   * **Class:** 8th - 10th (2008 - 2011)
-  * **First Class (72.33%)**
+  * **First Class with 72.33%**
   
 Work experience
 ======
