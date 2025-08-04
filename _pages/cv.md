@@ -52,21 +52,27 @@ Talks
 {% if site.talk_category %}
   {% for category in site.talk_category %}
     {% assign title_shown = false %}
+    <ul>
     {% for post in site.talks reversed %}
-      {% if post.category != category[0] %}
+      {% if post.category != category[0] or post.type == 'Poster' %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        </ul><h2>{{ category[1].title }}</h2><hr /><ul>
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single-talk.html %}
+      {% include archive-single-talk-cv.html %}
     {% endfor %}
+    </ul>
   {% endfor %}
 {% else %}
+  <ul>
   {% for post in site.talks reversed %}
-    {% include archive-single-talk.html %}
+    {% unless post.type == 'Poster' %}
+      {% include archive-single-talk-cv.html %}
+    {% endunless %}
   {% endfor %}
+  </ul>
 {% endif %}
   
 Teaching
