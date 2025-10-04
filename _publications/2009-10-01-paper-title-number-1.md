@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Measurement of the charged particle nuclear modification factor in oxygen-oxygen collisions with CMS,"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
