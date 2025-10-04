@@ -92,7 +92,7 @@ International talks
    {% endif %}
   {% endfor %}</ul>
 
-Nnational talks
+National talks
 ------
   <ul>{% for post in site.talks reversed %}
    {% if post.category == 'national' %}
