@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-JetAxisPythiaSim
 excerpt: 'Pythia-based simulation studies utilizing the <a href="https://doi.org/10.1007/JHEP06(2025)120">CMS jet axis decorrelation measurement</a>, in which the gluon-initiated jet fraction is extracted through a template-fit procedure.'
+date: 2025-07-03
 slidesurl: 'https://doi.org/10.48550/arXiv.2507.02725'
 citation: 'Raghunath Pradhan and Olga Evdokimov, <i>Submitted to Phys. Rev. C.</i>'
 ---
