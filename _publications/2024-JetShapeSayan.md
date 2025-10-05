@@ -1,0 +1,10 @@
+---
+title: "Jet peak shapes based on two-particle angular correlations in lead-lead collisions at $$\\sqrt{s_{_{\\text{NN}}}} = 5.02~\\text{TeV}$$"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-JetShapeSayan
+excerpt: 'This paper examines the evolution of the jet peak shape, focusing on the dependence of its width and skewness on transverse momentum, collision centrality, and pseudorapidity of the charged particles.'
+bibtexurl: 'https://cds.cern.ch/record/2912742?ln=en'
+citation: 'CMS Collaboration, <i>Will be submitted to Phys. Lett. B.</i>, Approved by the Collaboration.'
+---
+The Lorentz boost invariance of jet-induced peaks in two-particle correlation functions from relativistic lead-lead collisions is experimentally explored. The data were obtained at a center-of-mass energy per nucleon pair of 5.02\TeV in 2018 using the CMS detector. The dataset corresponds to an integrated luminosity of $$0.607~\mathrm{nb}^{-1}$$. In ultrarelativistic heavy ion collisions, long- and short-range correlations can be studied by forming two-dimensional distributions of the separations in pseudorapidity and azimuth between particles in an event. When averaged over many events, jets result in a well-defined peak structure centered at zero angular separation. The shape of this structure provides insights into parton-medium interactions and medium-induced jet modifications. This Letter examines the evolution of the jet peak shape, focusing on the dependence of its width and skewness on transverse momentum, collision centrality, and pseudorapidity of the charged particles. The pseudorapidity projection of the jet peak shape is found to have a width that increases as the overlap of the colliding nuclei increases and a skewness that increases as the average pseudorapidity increases. These results are compared to model calculations as well as to a similar analysis of 2017 proton-proton collision data that were obtained at the same nucleon-nucleon collision energy with an integrated luminosity of $$252~\mathrm{nb}^{-1}$$.
