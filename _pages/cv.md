@@ -50,7 +50,7 @@ Education
   
 Work experience
 ======
-* June 2023 - present: Postdoctoral researcher
+* **Postdoctoral researcher: **June 2023 - present
   * University of Illinois, Chicago
   * Department of Physics, 845 W. Taylor St., Chicago, IL 60607, USA
   * Duties includes:
@@ -64,7 +64,7 @@ Work experience
     * Helping to supervise students
   * Supervisor: [Prof. Olga Evdokimov](https://phys.uic.edu/profiles/evdokimov-olga/) ([evdolga@uic.edu](mailto:evdolga@uic.edu))
   
-* July 2018 - June 2023: Ph.D. student
+* **Ph.D. student: **July 2018 - June 2023
   * Inidian Institute of Technology Madras
   * Department of Physics, Chennai, Tamilnadu, 600036, India
   * Duties includes:
@@ -144,11 +144,6 @@ I was the teaching assistant for the following courses at IIT Madras during my P
 - **PH5720: Numerical Methods and Programming Lab**, 2021 January–May semester
 - **PH5211: High Energy Physics**, 2021 July–November semester
 - **PH5720: Numerical Methods and Programming Lab**, 2022 January–May semester
-<!---
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
---->
 
 CMS experimental responsibilities and leadership
 ======
@@ -165,28 +160,28 @@ Awards and fellowships
 * Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholarship by Department Of Science and Technology, India
   * B.Sc. and M.Sc. (2013 – 2018)
 * Central Sector Scholarship by the Department of Higher Education, Ministry of Education, Government of India
-  *B.Sc (2013 – 2016)
+  * B.Sc (2013 – 2016)
 * Senior Merit Scholarship by the Government of Odisha, India
-  *B.Sc (2013 – 2016)
+  * B.Sc (2013 – 2016)
 * Certificate of 2nd rank holder at the Fakir Mohan University
-  *B.Sc. Physics, 2013-2016
+  * B.Sc. Physics, 2013-2016
 * Got free laptop under “Biju Yuba Sashaktikaran Yojana” a youth empowerment, scheme by Higher Education Department, Odisha
-  *B.Sc., 2013
+  * B.Sc., 2013
 
 National exams
 ======
 * Graduate Aptitude Test in Engineering (GATE) - 2018
-  *All India Rank : 575
+  * All India Rank : 575
 * Joint Entrance Screening Test (JEST) - 2018
-  *All India Rank : 161
+  * All India Rank : 161
 * Graduate Aptitude Test in Engineering (GATE) - 2019
-  *All India Rank : 2399
+  * All India Rank : 2399
 
 
 Skills
 ======
-* C++, CERN ROOT (data analysis software), RooUnfolding, GitHub, Python, CMS data analysis software (CMSSW), LATEX, Linux, bash, FastJet framework, PYTHIA model, AMPT model, presentation, data analysis, statistical data analysis, communication, management
+C++, CERN ROOT (data analysis software), RooUnfolding, GitHub, Python, CMS data analysis software (CMSSW), LATEX, Linux, Windows operating systems, bash, FastJet framework, PYTHIA model, AMPT model, presentation, data analysis, statistical data analysis, communication, management
 
 Languages
 ======
-* Odia (native), English, Hindi, Bengali
+Odia (native), English, Hindi, Bengali
