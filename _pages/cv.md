@@ -75,14 +75,28 @@ Skills
 
 Publications
 ======
-<ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+All of my publications can be found associated with my [InspireHEP author profile]({{ site.author.inspirehep }}).
+Below, I list only the publications in which I am the sole contributor and/or have been directly involved.
+
+Journal articles
+------
+  <ul>{% for post in site.publications reversed %}
+   {% if post.category == 'manuscripts' %}
+     {% include include archive-single-cv.html  %}
+   {% endif %}
+  {% endfor %}</ul>
+
+Conference proceedings
+------
+  <ul>{% for post in site.publications reversed %}
+   {% if post.category == 'conferences' %}
+     {% include include archive-single-cv.html  %}
+   {% endif %}
   {% endfor %}</ul>
   
 Talks
 ======
-
-All the talks I have presented are based on my own works, which are mentioned in selected publications. Talks where I was personally invited are marked with an **invited** label.
+All the talks I have presented are based on my own works, which are mentioned in [selected publications](/publications). Talks where I was personally invited are marked with an **invited** label.
 
 International talks
 ------
