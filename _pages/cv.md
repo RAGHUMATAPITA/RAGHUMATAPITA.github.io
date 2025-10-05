@@ -82,7 +82,7 @@ Journal articles
 ------
   <ul>{% for post in site.publications reversed %}
    {% if post.category == 'manuscripts' %}
-     {% include include archive-single-cv.html  %}
+     {% include archive-single-cv.html  %}
    {% endif %}
   {% endfor %}</ul>
 
@@ -90,7 +90,7 @@ Conference proceedings
 ------
   <ul>{% for post in site.publications reversed %}
    {% if post.category == 'conferences' %}
-     {% include include archive-single-cv.html  %}
+     {% include archive-single-cv.html  %}
    {% endif %}
   {% endfor %}</ul>
   
