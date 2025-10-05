@@ -1,5 +1,5 @@
 ---
-title: "Search for medium-induced jet axis decorrelations with inclusive jets from PbPb collisions at LHC at $$\\sqrt{s_{NN}} = 5.02~\\text{TeV}$$"
+title: "Search for medium-induced jet axis decorrelations with inclusive jets from PbPb collisions at LHC at $$\\sqrt{s_{\\text{NN}}} = 5.02~\\text{TeV}$$"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-JetAxisinData
