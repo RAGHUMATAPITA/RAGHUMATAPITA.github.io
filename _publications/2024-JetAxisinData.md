@@ -5,8 +5,7 @@ category: manuscripts
 permalink: /publication/2024-JetAxisinData
 excerpt: 'This new measurement probes jet substructure in previously unexplored kinematic domains and show great promise for providing new insights on the color charge dependence of energy loss to jet-quenching models'
 date: 2025-06-12
-slidesurl: 'https://doi.org/10.48550/arXiv.2502.13020'
-paperurl: 'https://doi.org/10.1007/JHEP06(2025)120'
+venue: 'JHEP'
 bibtexurl: 'https://cds.cern.ch/record/2924713'
 citation: 'CMS Collaboration'
 ---
