@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-CMSOverView
 excerpt: 'An overview of CMS results on high-density QCD studies based on Run 1 and Run 2 data'
-date: 2025-13-01
+date: 2025-01-13
 venue: 'Physics Reports'
 slidesurl: 'https://doi.org/10.48550/arXiv.2405.10785'
 paperurl: 'https://doi.org/10.1016/j.physrep.2024.11.007'
