@@ -2,9 +2,9 @@
 title: "Search for medium-induced jet axis decorrelations with inclusive jets from PbPb collisions at LHC at $$\\sqrt{s_{_{\\text{NN}}}} = 5.02~\\text{TeV}$$"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-JetAxisinData
+permalink: /publication/2025-JetAxisinData
 excerpt: 'This new measurement probes jet substructure in previously unexplored kinematic domains and show great promise for providing new insights on the color charge dependence of energy loss to jet-quenching models'
-date: 2025-12-06
+date: 2025-06-12
 venue: 'JHEP'
 slidesurl: 'https://doi.org/10.48550/arXiv.2502.13020'
 paperurl: 'https://doi.org/10.1007/JHEP06(2025)120'
