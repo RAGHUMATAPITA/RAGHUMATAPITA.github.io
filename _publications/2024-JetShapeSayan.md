@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-JetShapeSayan
 excerpt: 'This paper examines the evolution of the jet peak shape, focusing on the dependence of its width and skewness on transverse momentum, collision centrality, and pseudorapidity of the charged particles.'
+date: 2024-10-08
 bibtexurl: 'https://cds.cern.ch/record/2912742?ln=en'
 citation: 'CMS Collaboration, <i>Will be submitted to Phys. Lett. B.</i>, Approved by the Collaboration.'
 ---
