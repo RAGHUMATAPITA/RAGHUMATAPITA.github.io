@@ -17,15 +17,16 @@ Education
   * **Duration:** 4 years and 11 months (July 7, 2018 – June 13, 2023)  
   * **Date of defense:** June 13, 2023  
   * **Thesis at CERN Document Server (CDS):** [https://repository.cern/records/42aqd-nww26](https://repository.cern/records/42aqd-nww26)  
-  * **Supervisor:** Prof. Prabhat Ranjan Pujahari ([p.pujahari@iitm.ac.in](mailto:p.pujahari@iitm.ac.in))  
+  * **Supervisor:** [Prof. Prabhat Ranjan Pujahari](https://physics.iitm.ac.in/people/facultyinfo/prabhatpujahari.html) ([p.pujahari@iitm.ac.in](mailto:p.pujahari@iitm.ac.in))  
 
 * **Master in Science (M.Sc.), Utkal University, Bhubaneswar, Odisha, India**  
   * **Specialization:** High energy physics
+  * **Other courses:** Advanced particle physics and filed theory-I, Advanced particle physics and filed theory-II, Quantum mechanics-I, Quantum mechanics-II, Advanced quantum mechanics, Classical mechanics, Mathematical method in physics, Statistical mechanics, Basics condensed matter physics, Electronics, Basic electronics
   * **Duration:** 2 years (2016 – 2018)
   * **First Class with Distinction (86.5%, CGPA: 9.08)**
   * **Master project:** Calibration of scintillator detectors for measurement of cosmic ray showers
     * **Experiment:** GRAPES-3, Tata Institue Of Fundamental Research (TIFR), OOTY, India
-    * **Supervisor:** Prof. Prabhat Kumar Mohanty ([pkm@tifr.res.in](mailto:pkm@tifr.res.in))
+    * **Supervisor:** [Prof. Prabhat Kumar Mohanty](https://scholar.google.com/citations?user=Eu4IhOUAAAAJ&hl=en) ([pkm@tifr.res.in](mailto:pkm@tifr.res.in))
 
 * **Bachelor in Science (B.Sc.), Fakir Mohan University, U.N. College, Soro, Balasore, Odisha, India**
   * **Specialization:** Physics
@@ -49,20 +50,19 @@ Education
   
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2023 - present: Postdoctoral researcher
+  * University of Illinois, Chicago
+  * Department of Physics, 845 W. Taylor St., Chicago, IL 60607, USA
+  * Duties includes:
+    * Analysis on jet wake effect in dijet events with the CMS experiment
+    * Analysis on charged-particle suppression in oxygen-oxygen collisions
+    * Analysis on charged-particle suppression in neon-neon collisions	
+    * Anslysis on jet axis-based inclusive jet substructure measurement using Pythia dijet events and constraining color-charge effects of partonic energy loss
+    * Analysis on jet axis decorrelation in dijet events with the CMS experiment
+    * CMS heavy-ion tracking convener
+    * CMS heavy-ion tracking validator
+    * Helping to supervise students
+  * Supervisor: [Prof. Olga Evdokimov](https://phys.uic.edu/profiles/evdokimov-olga/) ([evdolga@uic.edu](mailto:evdolga@uic.edu))
   
 Skills
 ======
