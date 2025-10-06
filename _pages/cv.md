@@ -136,14 +136,14 @@ I was the teaching assistant for the following courses at IIT Madras during my P
 
 **Department of Physics, Indian Institute of Technology Madras, India**
 
-- **PH1030: Graduate Students Physics Lab**, 2018 July–November semester
-- **PH1030: Graduate Students Physics Lab**, 2019 January–May semester
-- **PH1010: Graduate Students Physics Course**, 2019 July–November semester
-- **PH5720: Numerical Methods and Programming Lab**, 2020 January–May semester
-- **PH5211: High Energy Physics**, 2020 July–November semester
-- **PH5720: Numerical Methods and Programming Lab**, 2021 January–May semester
-- **PH5211: High Energy Physics**, 2021 July–November semester
-- **PH5720: Numerical Methods and Programming Lab**, 2022 January–May semester
+* PH5720: Numerical Methods and Programming Lab**, 2022 January–May semester
+* PH5211: High Energy Physics**, 2021 July–November semester
+* PH5720: Numerical Methods and Programming Lab**, 2021 January–May semester
+* PH5211: High Energy Physics**, 2020 July–November semester
+* PH5720: Numerical Methods and Programming Lab**, 2020 January–May semester
+* PH1010: Graduate Students Physics Course**, 2019 July–November semester
+* PH1030: Graduate Students Physics Lab**, 2019 January–May semester
+* PH1030: Graduate Students Physics Lab**, 2018 July–November semester
 
 CMS experimental responsibilities and leadership
 ======
