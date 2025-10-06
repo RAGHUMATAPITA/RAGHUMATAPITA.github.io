@@ -1,7 +1,7 @@
 ---
 title: "PH5211: High Energy Physics"
 collection: teaching
-type: "Ggraduate course"
+type: "Graduate course"
 permalink: /teaching/2020July_HECourse
 venue: "Indian Institute of Technology Madras, Department of Physics"
 date: 2020-07-01
