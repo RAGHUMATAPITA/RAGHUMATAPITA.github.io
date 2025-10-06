@@ -104,7 +104,7 @@ Conference proceedings
   
 Talks
 ======
-All the talks I have presented are based on my own works, which are mentioned in [selected publications](/publications). Talks where I was personally invited are marked with an **invited** label.
+All talks and posters I have presented are based on my own work or work in which I was directly involved, as listed in [selected publications](/publications). Talks where I was personally invited are marked with an invited label.
 
 International talks
 ------
