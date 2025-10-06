@@ -132,7 +132,7 @@ Poster presentations
 
 Teaching assistant
 ======
-I was the teaching assistant for the following courses at IIT Madras during my Ph.D. Additionally, I occasionally took classes, specifically for High Energy Physics and the Numerical Methods and Programming Lab, in the absence of the faculty.
+Served as Teaching Assistant for the following courses at IIT Madras during my Ph.D., and occasionally conducted classes for High Energy Physics and the Numerical Methods and Programming Lab in the faculty's absence.
 
 **Department of Physics, Indian Institute of Technology Madras, India**
 
