@@ -147,7 +147,7 @@ Served as Teaching Assistant for the following courses at IIT Madras during my P
 
 CMS experimental responsibilities and leadership
 ======
-* V0 particles reconstruction for 2025 OO data, CMS experiment
+* V0 particles reconstruction for 2025 OO and NeNe data, CMS experiment
 * Heavy-ion tracking group convener, September 2023 – present, CMS experiment
 * Heavy-ion tracking validator, September 2023 – present, CMS experiment
 * L3 convener under PdmV group (Monte Carlo request manager), 2019 – 2023, CMS experiment
