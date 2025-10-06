@@ -50,7 +50,7 @@ Education
   
 Work experience
 ======
-* **Postdoctoral researcher: **June 2023 - present
+* **Postdoctoral researcher:** June 2023 - present
   * University of Illinois, Chicago
   * Department of Physics, 845 W. Taylor St., Chicago, IL 60607, USA
   * Duties includes:
@@ -64,7 +64,7 @@ Work experience
     * Helping to supervise students
   * Supervisor: [Prof. Olga Evdokimov](https://phys.uic.edu/profiles/evdokimov-olga/) ([evdolga@uic.edu](mailto:evdolga@uic.edu))
   
-* **Ph.D. student: **July 2018 - June 2023
+* **Ph.D. student:** July 2018 - June 2023
   * Inidian Institute of Technology Madras
   * Department of Physics, Chennai, Tamilnadu, 600036, India
   * Duties includes:
