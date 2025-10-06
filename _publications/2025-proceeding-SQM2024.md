@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-proceeding-SQM2024
 excerpt: "Conference proceedings of my talk at SQM 2024 conference on strange-particle femtoscopic correlations measured with the CMS experiment."
 date: 2025-01-27
-venue: 'EPJ Web Conf.'
+venue: 'EPJ Web Conferences'
 paperurl: 'https://doi.org/10.1051/epjconf/202531606012'
 citation: 'Raghunath Pradhan for the CMS Collaboration'
 ---
