@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/2025-NeNeRAA
 excerpt: 'Discovery of charged-particle suppression in NeNe collisions.'
 date: 2025-09-22
-slidesurl: 'https://cds.cern.ch/record/2942011?ln=en'
 bibtexurl: 'https://cds.cern.ch/record/2942002?ln=en'
 citation: 'CMS Collaboration, <i>Will be submitted to Phys. Lett. B.</i>, Approved by the Collaboration.'
 ---

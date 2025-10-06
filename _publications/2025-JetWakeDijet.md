@@ -3,7 +3,7 @@ title: "Search for the diffusion jet wake effect using dijet events in PbPb coll
 collection: publications
 category: manuscripts
 permalink: /publication/2025-JetWakeDijet
-excerpt: 'Discovery of charged-particle suppression in light-ion collisions.'
+excerpt: 'Discovery of diffusion jet wake effect in dijet events.'
 date: 2025-10-01
 citation: 'CMS Collaboration, Pre-approved, Under approval by the Collaboration.'
 ---
