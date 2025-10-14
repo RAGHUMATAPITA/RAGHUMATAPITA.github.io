@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am from Beligopinathpur, a small village under Jaleswar town in Balasore district, Odisha, India. After completing high school in Jaleswar in 2008 and my undergraduate studies at Fakir Mohan University, Balasore in 2013, I moved to Bhubaneswar in 2016 to pursue a master’s degree at Utkal University, where I chose high-energy physics as a specialization, inspired by Prof. Swapna Mohapatra. I then joined the Indian Institute of Technology (IIT) Madras, Chennai for my Ph.D., focusing on experimental heavy-ion physics with the Compact Muon Solenoid (CMS) experiment at the Large Hadron Collider (LHC), and received my Ph.D. in 2023. I am currently a postdoctoral researcher at the University of Illinois at Chicago, continuing my research on heavy-ion collisions with the CMS experiment.
 
 A data-driven personal website
 ======
