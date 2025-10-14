@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2025-OORAA
 excerpt: 'Discovery of charged-particle suppression in light-ion collisions.'
 date: 2025-10-11
+slidesurl: 'https://doi.org/10.48550/arXiv.2507.02725'
 bibtexurl: 'https://cds.cern.ch/record/2942002?ln=en'
 citation: 'CMS Collaboration, <i>Submitted to Phys. Rev. Lett.</i>.'
 ---
