@@ -75,7 +75,8 @@ Work experience
     * V0 particles reconstruction for 2018 PbPb data
     * MIP timing detector (MTD) simulation studies, CMS experiment
     * Helping to supervise students
-  * Supervisor: [Prof. Olga Evdokimov](https://phys.uic.edu/profiles/evdokimov-olga/) ([evdolga@uic.edu](mailto:evdolga@uic.edu))
+  * Supervisor: [Prof. Prabhat Ranjan Pujahari](https://physics.iitm.ac.in/people/facultyinfo/prabhatpujahari.html) ([p.pujahar\
+i@iitm.ac.in](mailto:p.pujahari@iitm.ac.in))
   
 Research interests
 ======
