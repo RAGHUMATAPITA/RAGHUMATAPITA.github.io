@@ -96,9 +96,31 @@ Awards and fellowships
 * Got free laptop under “Biju Yuba Sashaktikaran Yojana” a youth empowerment, scheme by Higher Education Department, Odisha
   * B.Sc., 2013
 
+## Skills
+
+### Programming & Software
+- **C++**, **Python**, **Bash**  
+- **CERN ROOT**, **CMSSW**, **RooUnfold**, **FastJet**  
+- **GitHub**, **Linux**, **Windows OS**, **LaTeX**
+
+### High-Energy Physics & Data Analysis
+- Jet substructure (E-scheme & WTA axes), jet–medium interaction  
+- Tracking reconstruction & CMS detector performance validation  
+- Statistical data analysis, **MVA**, **BDT methods**  
+- Monte Carlo models: **PYTHIA**, **AMPT**, **JEWEL**
+
+### Computing & Workflow
+- High-performance computing (HPC), Grid/CRAB, **HTCondor**
+
+### Professional Skills
+- Scientific writing  
+- Presentation & communication  
+- Project management
+
+
 Skills
 ======
-C++, CERN ROOT (data analysis software), CMS data analysis software (CMSSW), statistical data analysis, RooUnfolding, Multivariate Analysis (MVA), GitHub, Python, Linux, bash, Latex, Windows operating systems, FastJet framework, PYTHIA model, AMPT model, JEWEL model, presentation, communication, management
+C++, CERN ROOT (data analysis software), CMS data analysis software (CMSSW), statistical data analysis, RooUnfolding, Multivariate Analysis (MVA), GitHub/GitLab, Python, Linux, bash, Latex, Windows operating systems, FastJet framework, PYTHIA model, AMPT model, JEWEL model, journal writing, presentation, communication, management
 
 National exams
 ======
