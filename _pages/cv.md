@@ -106,7 +106,7 @@ C++, Bash, Python, CERN ROOT, CMS data analysis software (CMSSW), RooUnfold, Fas
 Statistical data analysis, Multivariate Analysis (MVA), Boosted Decision Trees (BDT) methods, Monte Carlo models: PYTHIA, AMPT, JEWEL
 
 ### Computing & workflow
-High-performance computing (HPC), Grid/CRAB, HTCondor
+High-performance computing (HPC), Grid (distributed computing network), CRAB (CMSSW jobs submission tool), HTCondor
 
 ### Professional skills
 Scientific writing, Presentation & communication, Project management
