@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2022-proceeding-HOTQCD2022
 excerpt: "Conference proceedings of my talk at HOT QCD MATTER 2022 conference on strange particles femtoscopic correlation in PbPb collisions with the CMS experiment."
 date: 2022-12-21
-venue: 'EPJ Web Conferences'
+venue: 'International Journal of Modern Physics E'
 paperurl: 'https://doi.org/10.1142/S0218301322500975'
 citation: 'Raghunath Pradhan for the CMS Collaboration'
 ---
