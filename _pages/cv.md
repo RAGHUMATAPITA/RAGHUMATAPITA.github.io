@@ -148,6 +148,16 @@ CMS experimental responsibilities and leadership
 * V0 particles reconstruction for 2018 PbPb data, CMS experiment
 * MIP timing detector (MTD) simulation studies, CMS experiment
 
+Analysis review committee:
+======
+I served as a member of the analysis review committee for the following analysis:
+* HIN-24-022: Study of photoproduced dijet azimuthal angular correlations in ultraperipheral PbPb collisions. CMS experiment
+
+Journal reviewer
+======
+I served as a reviewer for the following journal:
+*Journal of High Energy Physics (JHEP)
+
 Publications
 ======
 All of my publications can be found associated with my [InspireHEP author profile]({{ site.author.inspirehep }}).
