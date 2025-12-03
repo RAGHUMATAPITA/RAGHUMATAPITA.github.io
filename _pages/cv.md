@@ -98,18 +98,17 @@ Awards and fellowships
 
 Skills
 ======
-
 ### Programming & software
 C++, Bash, Python, CERN ROOT, CMS data analysis software (CMSSW), RooUnfold, FastJet framework, GitHub, Linux, Windows OS, LaTeX
 
-### High-energy physics & data analysis
-Statistical data analysis, Multivariate Analysis (MVA), Boosted Decision Trees (BDT) methods, Monte Carlo models: PYTHIA, AMPT, JEWEL
+### Data Analysis & simulations
+CMS experimental data analysis (Run 2–3); statistical data analysis; big data analysis (CMS datasets, multi-TB/PB scale); Machine Learning (ML) tools: Multivariate Analysis (MVA), Boosted Decision Trees (BDT); Monte Carlo models: PYTHIA, AMPT, JEWEL
 
 ### Computing & workflow
-High-performance computing (HPC), Grid (distributed computing network), CRAB (CMSSW jobs submission tool), HTCondor
+High-performance computing (HPC); grid/distributed computing, CRAB (CMSSW jobs submission tool); HTCondor workflow management
 
 ### Professional skills
-Scientific writing, Presentation & communication, Project management
+High-performance computing (HPC); grid/distributed computing, CRAB (CMSSW jobs submission tool); HTCondor workflow management
 
 National exams
 ======
