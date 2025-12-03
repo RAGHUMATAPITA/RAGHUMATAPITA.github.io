@@ -150,12 +150,12 @@ CMS experimental responsibilities and leadership
 
 Analysis review committee:
 ======
-I served as a member of the analysis review committee for the following analysis:
+I served as a member of the analysis review committee for the following analyses:
 * HIN-24-022: Study of photoproduced dijet azimuthal angular correlations in ultraperipheral PbPb collisions. CMS experiment
 
 Journal reviewer
 ======
-I served as a reviewer for the following journal:
+I served as a reviewer for the following journals:
 * Journal of High Energy Physics (JHEP)
 
 Publications
