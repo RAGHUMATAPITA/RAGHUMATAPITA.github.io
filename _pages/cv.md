@@ -156,7 +156,7 @@ I served as a member of the analysis review committee for the following analysis
 Journal reviewer
 ======
 I served as a reviewer for the following journal:
-*Journal of High Energy Physics (JHEP)
+* Journal of High Energy Physics (JHEP)
 
 Publications
 ======
